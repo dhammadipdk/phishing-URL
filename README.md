@@ -12,14 +12,9 @@ Detect whether a domain name or URL is malicious by inputting a URL. For instanc
 https://www.google.com -> SAFE
 http://stcdxmt.bigperl.in/klxtv/apps/uk/ -> MALICIOUS
 ```
- 
-## Previews
-<img alt="Preview 1" width="800" src="https://github.com/ANG13T/url_genie/blob/main/webapp/assets/project_graphic.png">
 
 <img alt="Preview 2" width="800" src="https://github.com/ANG13T/url_genie/blob/main/webapp/assets/preview.png">
 
-## Neural Network Model
-<img alt="Model Image" width="800" src="https://github.com/ANG13T/url_genie/blob/main/webapp/assets/model_graphic.png">
 
 The model sequence defined within `genetic_algorithm_implementation.py` is as follows:
 1. Integrate CSV Dataset and Remove Unnecessary Columns
@@ -73,13 +68,3 @@ The `genetic_algorithm_implementation.py` file contains the code to generate the
 ## Learning and Resources
 To learn more about DNS functionality, malicious URL generation, and the machine learning models used for this project, refer to [this article](https://medium.com/@angelinatsuboi/bio-cybersecurity-using-genetic-algorithms-to-detect-malicious-urls-3811326b7c1).
 
-## Contributing
-URL Genie is open to any contributions. Please fork the repository and make a pull request with the features or fixes you want to be implemented.
-
-## Special Thanks
-This project is a customized and enhanced derivative of a combination of previous research conducted by [Deepesh Mhatre](https://github.com/deepeshdm/Phishing-Attack-Domain-Detection) and [Suryansh S.](https://towardsdatascience.com/gas-and-nns-6a41f1e8146d) Please feel free to show your support by checking out their projects and profiles!
-
-## Support
-If you enjoyed this project, please consider [becoming a sponsor](https://github.com/sponsors/ANG13T) in order to fund my future projects. 
-
-To check out my other works, visit my [GitHub profile](https://github.com/ANG13T).
